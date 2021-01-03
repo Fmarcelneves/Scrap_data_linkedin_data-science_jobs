@@ -1,1 +1,1 @@
-# Scrap_data_linkedin_data-science_jobs
+# Scrap_linkedin_data-science_jobs
